@@ -1,0 +1,5 @@
+/* Lisää perustyylejä tarpeen mukaan */
+#navigation button {
+    margin: 5px;
+    padding: 10px;
+}
